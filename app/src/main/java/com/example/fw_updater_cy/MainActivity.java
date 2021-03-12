@@ -38,6 +38,7 @@ import java.util.TimerTask;
 import java.util.concurrent.ExecutorService;
 import java.util.concurrent.Executors;
 
+//主程序开始入口
 public class MainActivity extends AppCompatActivity {
     private static final String USB_ACTION = "com.tcl.navigator.hostChart";
     private TextView info;
